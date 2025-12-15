@@ -50,6 +50,7 @@ Extracted Plate Text
 ```
 ## 📁 Project Structure
 
+```
 license-plate-anpr/
 │
 ├── src/
@@ -71,6 +72,7 @@ license-plate-anpr/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## 🚀 Installation
 
